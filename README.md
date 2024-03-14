@@ -1,4 +1,3 @@
-# Seoul-Bike-Sharing-Demand-Prediction
 # Seoul Bike Sharing Demand Prediction
 - Cleaned dataset using Pandas and NumPy to handle missing values and outliers.
 - Visualized data using Matplotlib and Seaborn to understand distributions and relationships.
